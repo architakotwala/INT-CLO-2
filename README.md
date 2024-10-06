@@ -1,9 +1,7 @@
 # INT-CLO-2
-# Project Title: 
-Resource Allocation Simulation in Hybrid Cloud
+# Project Title: Resource Allocation Simulation in Hybrid Cloud
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Description:
-Create a program to optimize resource distribution between on- premises and cloud infrastructures.
+# Description: Create a program to optimize resource distribution between on- premises and cloud infrastructures.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Output:
