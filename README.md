@@ -1,12 +1,12 @@
 # INT-CLO-2
-Project Title: 
+# Project Title: 
 Resource Allocation Simulation in Hybrid Cloud
-
-Description:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Description:
 Create a program to optimize resource distribution between on- premises and cloud infrastructures.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-Output:
+# Output:
 1.	When resource is available
                       ![image](https://github.com/user-attachments/assets/6a47ec6e-543b-4f23-9462-a317d49e9b09)
 
@@ -17,6 +17,6 @@ Output:
  
 ![image](https://github.com/user-attachments/assets/a326de39-7287-48ca-9218-38b39602b426)
 
-
-Conclusion:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Conclusion:
 I successfully enhanced the Resource Allocation Simulation in Hybrid Cloud project by improving its functionality and user interface. The experience reinforced my understanding of resource management and UI design principles, and I look forward to continuing the project by adding more advanced features in the coming weeks.
