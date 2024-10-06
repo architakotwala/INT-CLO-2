@@ -1,14 +1,14 @@
 # INT-CLO-2
 Project Title: 
-Resource Allocation Simulation in Hybrid
-Cloud
+Resource Allocation Simulation in Hybrid Cloud
+
 Description:
 Create a program to optimize resource distribution between on- premises and cloud infrastructures.
 
 
 Output:
 1.	When resource is available
-  ![image](https://github.com/user-attachments/assets/6a47ec6e-543b-4f23-9462-a317d49e9b09)
+                      ![image](https://github.com/user-attachments/assets/6a47ec6e-543b-4f23-9462-a317d49e9b09)
 
 2.	When resource is partially available
   ![image](https://github.com/user-attachments/assets/9730280c-ec52-4428-bf8f-2c4a5ebe1448)
